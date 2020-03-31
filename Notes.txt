@@ -1,0 +1,25 @@
+  Node with Competative Questions Answers:  Javascript
+
+Introduction :
+- it is developed by Ryan Dahl in 2009
+- it is Javascript based framework. What is Javascript based framework
+- it is open source and completely free.
+- It is runtime environment and library.
+- it is server side platform.
+- any application such as Input/output operation.
+
+Feature :
+- Event Driven
+- Single Threaded
+- Asynchronous
+- No Buffering
+
+When to use ?
+- for streaming or event based application
+- Chat application
+- Game server
+- streaming server
+- I/0 bound application
+- Single Page application
+
+
